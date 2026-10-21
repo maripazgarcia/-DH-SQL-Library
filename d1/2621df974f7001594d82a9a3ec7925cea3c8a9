@@ -1,0 +1,75 @@
+.gitignore
+  s_04cb1f2c400d61::t_59aa0dbf1e36e0 1
+README.md
+  s_04cb1f2c400d61::t_6b12deef5f05b8 1-9
+Recruitment/account_creation_launch_impact.sql
+  s_04cb1f2c400d61::t_0370dd23ae9293 1-59
+Recruitment/account_creation_otp_funnel.sql
+  s_04cb1f2c400d61::t_bcf68846c2c808 1-135
+Recruitment/arara_document_trouble.sql
+  s_04cb1f2c400d61::t_e16482b49a300c 1-68
+Recruitment/arara_stage_funnel.sql
+  s_04cb1f2c400d61::t_9acafd1dd1f890 1-46
+Recruitment/city_level_recruitment_kpis_undersupplied.sql
+  s_04cb1f2c400d61::t_19ba300fead4a1 1-146
+Recruitment/supply_kr_weighted_4w_tracker.sql
+  s_04cb1f2c400d61::t_2741acf2cbeb26 1-40
+"Scoring - Loyalty/batch_distribution_and_mobility.sql"
+  s_04cb1f2c400d61::t_5e2d5f7df7a742 1-181
+"Scoring - Loyalty/bq_scheduled_query.sql"
+  s_04cb1f2c400d61::t_d47d083ac5ff62 1-101
+"Scoring - Loyalty/bq_table_1_m1_kpi_weekly.sql"
+  s_04cb1f2c400d61::t_58b990447c0a0e 1-350
+"Scoring - Loyalty/bq_table_2_m1_distribution_weekly.sql"
+  s_04cb1f2c400d61::t_352e30e7ec2479 1-203
+"Scoring - Loyalty/bq_table_3_m1_above_threshold_weekly.sql"
+  s_04cb1f2c400d61::t_fd4222a6a10288 1-249
+"Scoring - Loyalty/bq_table_4_m1_retention_weekly.sql"
+  s_04cb1f2c400d61::t_b20e00e06c5c56 1-199
+"Scoring - Loyalty/bq_table_canary_kr_tracking.sql"
+  s_04cb1f2c400d61::t_745fdd06ac3ed8 1-360
+"Scoring - Loyalty/bq_table_canary_lookalike_manifest.sql"
+  s_04cb1f2c400d61::t_c287e7c3f251b2 1-97
+"Scoring - Loyalty/dashboard_city_weekly_from_rider.sql"
+  s_04cb1f2c400d61::t_d750e50e403c64 1-183
+"Scoring - Loyalty/jazan_utr_query.sql"
+  s_04cb1f2c400d61::t_7cad503b2204d7 1-28
+"Scoring - Loyalty/loyalty_vs_rider_kpi_comparison.sql"
+  s_04cb1f2c400d61::t_b48ad0ceaa0e9d 1-148
+"Scoring - Loyalty/m1_above_threshold_rider_share.sql"
+  s_04cb1f2c400d61::t_c4418566860c25 1-237
+"Scoring - Loyalty/m1_above_threshold_rider_share_global.sql"
+  s_04cb1f2c400d61::t_043dd334d3a0e7 1-265
+"Scoring - Loyalty/m1_orders_per_rider_vs_lookalike.sql"
+  s_04cb1f2c400d61::t_c198cb859ace3d 1-250
+"Scoring - Loyalty/m1_orders_per_rider_weekly.sql"
+  s_04cb1f2c400d61::t_2050e638150908 1-214
+"Scoring - Loyalty/m1_threshold_base_calculation.sql"
+  s_04cb1f2c400d61::t_c43db4a1ee856f 1-67
+"Scoring - Loyalty/m2_engagement_segmentation.sql"
+  s_04cb1f2c400d61::t_fd99f0fdb508c5 1-600
+"Scoring - Loyalty/scoring_settings_current_by_country.sql"
+  s_04cb1f2c400d61::t_fd2184531503ee 1-22
+"Scoring - Loyalty/scoring_settings_glovo_batches.sql"
+  s_04cb1f2c400d61::t_ea6231f372a5da 1-209
+"Scoring - Loyalty/scoring_settings_kpi_adoption_historical.sql"
+  s_04cb1f2c400d61::t_3fb06bfa026e18 1-50
+"Scoring - Loyalty/threshold_tool_rider_weekly.sql"
+  s_04cb1f2c400d61::t_157fb3a70e68e2 1-657
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d12621df974f7001594d82a9a3ec7925cea3c8a9",
+  "prompts": {},
+  "sessions": {
+    "s_04cb1f2c400d61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a5a49024-ddcb-4b25-8635-4e5dda184611",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Maripaz Garcia <maripaz.garcia@deliveryhero.com>"
+    }
+  }
+}
